@@ -1,0 +1,10 @@
+E:\Projects\Packt_WinForm\Chapter2\bin\Debug\Chapter2.exe.config
+E:\Projects\Packt_WinForm\Chapter2\bin\Debug\Chapter2.exe
+E:\Projects\Packt_WinForm\Chapter2\bin\Debug\Chapter2.pdb
+E:\Projects\Packt_WinForm\Chapter2\obj\Debug\Chapter2.csproj.AssemblyReference.cache
+E:\Projects\Packt_WinForm\Chapter2\obj\Debug\Chapter2.Form1.resources
+E:\Projects\Packt_WinForm\Chapter2\obj\Debug\Chapter2.Properties.Resources.resources
+E:\Projects\Packt_WinForm\Chapter2\obj\Debug\Chapter2.csproj.GenerateResource.cache
+E:\Projects\Packt_WinForm\Chapter2\obj\Debug\Chapter2.csproj.CoreCompileInputs.cache
+E:\Projects\Packt_WinForm\Chapter2\obj\Debug\Chapter2.exe
+E:\Projects\Packt_WinForm\Chapter2\obj\Debug\Chapter2.pdb
